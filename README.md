@@ -9,4 +9,4 @@ A graphical dashboard that displays real-time information about  process states,
 # features
 Show Cpu usage process states in real time
 # specs
-
+# remove confilcts and merge readme in main
