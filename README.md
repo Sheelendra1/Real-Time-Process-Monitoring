@@ -11,3 +11,4 @@ Show Cpu usage process states in real time
 # specs
 # remove confilcts and merge readme in main
 data_collection file in python lamguage to collect data from machine
+# readme
