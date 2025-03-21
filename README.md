@@ -10,4 +10,6 @@ A graphical dashboard that displays real-time information about  process states,
 Show Cpu usage process states in real time
 # specs
 # remove confilcts and merge readme in main
+data_collection file in python lamguage to collect data from machine
+# readme
 data-collection file in python lamguage to collect data from machine
