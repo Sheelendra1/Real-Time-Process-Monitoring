@@ -10,7 +10,7 @@ A graphical dashboard that displays real-time information about  process states,
 Show Cpu usage process states in real time and can kill the process by kill butto
 # specs
 data_collection file in python lamguage to collect data from machine
-# readme
+# data colection
 data-collection file in python lamguage to collect data from machine
 # commit
 added dashboard to see all the process running and whith a dedicated kill button to kill the process 
