@@ -14,4 +14,4 @@ data_collection file in python lamguage to collect data from machine
 data-collection file in python lamguage to collect data from machine
 # commit
 added dashboard to see all the process running and whith a dedicated kill button to kill the process 
-# request 
+
