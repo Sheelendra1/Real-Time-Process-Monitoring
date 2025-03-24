@@ -1,7 +1,7 @@
 # Real-Time Process Monitoring Dashboard
 A graphical dashboard that displays real-time information about process states, CPU usage, and memory consumption. The tool should allow administrators to manage processes efficiently and identify potential issues promptly
 
-## Features
+## Features:-
  - Visualize Cpu usage and memory usage in real-time by using a line chart.
  - Update the the information within every 2 sec.
  - Display the list of all processes running, including detailos like name, CPU usage and memory usage.
